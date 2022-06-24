@@ -1,0 +1,7 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "prettier.trailingComma": "es5",
+  "printWidth": 200
+}
